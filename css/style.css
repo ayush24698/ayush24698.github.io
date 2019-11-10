@@ -1,0 +1,17 @@
+nav {
+	background-color: #72bcd4;
+}
+.nav-link {
+	color: #ffff;
+}
+body {
+	background-color: #d4ebf2;
+}
+
+.card {
+	padding	: 20px;
+}
+.instagram {
+	height:200px;
+	width:33%;
+}
